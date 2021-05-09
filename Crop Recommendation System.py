@@ -3,7 +3,7 @@
 
 # In[1]:
 
-import sklearn.ensemble.forest
+from sklearn import sklearn.ensemble.forest
 import pandas as pd
 
 
